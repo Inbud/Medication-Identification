@@ -1,0 +1,12 @@
+# config.py
+# 语音识别API（ASR/TTS）
+SPEECH_APP_ID = ''
+SPEECH_API_KEY = ''
+SPEECH_SECRET_KEY = ''
+
+# OCR API
+OCR_APP_ID = ''
+OCR_API_KEY = ''
+OCR_SECRET_KEY = ''
+
+ERNIE_ACCESS_TOKEN = ''
