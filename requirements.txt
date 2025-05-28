@@ -1,0 +1,7 @@
+opencv-python
+SpeechRecognition
+pydub
+pyAudio
+baidu-aip
+erniebot
+playsound==1.2.2
